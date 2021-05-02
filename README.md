@@ -20,16 +20,16 @@ So that's basically the objective of this project.
 
 # Step that we're going to see in this project:
 
-perform exploratory data analysis and visualize customers data set using distplot, histograms and KDE.
+1. Perform Exploratory Data Analysis and Visualize customers data set using distplot, histograms and KDE.
 
-learn how to fill out missing data points or null elements for short.
+2. Learn how to fill out Missing data points or null elements.
 
-Understand this theory and intuition behind K Means clustering algorithm.
+3. Understanding the K Means clustering algorithm.
 
-Learn how to find the optimal number of clusters using the Elbow Method.
+4. Learn how to find the optimal number of clusters using the Elbow Method.
 
-Apply k means algorithm and sklearn to perform market segmentation.
+5. Apply k means algorithm and sklearn to perform market segmentation.
 
-Understand the intuition behind principle component analysis with PCA.
+6. Understand the intuition behind principle component analysis with PCA.
 
-Apply PCA to perform dimensionality reduction using real world data set.
+7. Apply PCA to perform dimensionality reduction on the data set.
